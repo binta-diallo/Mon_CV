@@ -1,0 +1,70 @@
+body{
+    margin:0;
+    background-color: #a370d8;
+    font-family: 'Abel', sans-serif;
+    font-size: 1.5em;
+}
+#header{
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    color: #530c82;
+    font-size: 2em;
+    text-align: center;
+    background-image:linear-gradient(#a1a0a0, #f7f1f9, #5e5c5c);
+}
+.adresse{
+    width: 300px;
+    height: 250px;
+    text-align: justify;
+    margin-left:50px;
+}
+img{
+    border-radius: 25px;
+
+}
+.photo{
+    width: 200px;
+    height: 200px;
+
+    border-radius: 15px;
+    margin-right: 50px;
+}
+.formations{
+    height: 200px;
+    width: 850px;
+    margin-left:200px;
+    text-align: justify;
+}
+.expériences{
+
+    height: 250px;
+    width: 900px;
+    margin-left: 200px;
+    text-align: justify;
+}
+.compétences{
+
+    height: 600px;
+    width: 900px;
+    margin-left:200px;
+    text-align: justify;
+}
+.entête{
+
+    height: 40px;
+    text-align: center;
+    font-size: 1.5em;
+    color: #530c82;
+    font-weight: bold;
+    background-image:linear-gradient(#a1a0a0, #f7f1f9, #5e5c5c);
+}
+span{
+    font-weight:bold ;
+}
+h5{
+    text-decoration: underline;
+    font-weight: bold;
+}
